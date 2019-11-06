@@ -9,7 +9,7 @@ $ cd my-first-app-nodejs
 $ npm install
 ```
 
-Start
+## Install packages
 ```
-$ npm start
+$ npm install
 ```
