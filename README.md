@@ -1,2 +1,15 @@
 # my-first-app-nodejs
-my first app built with nodejs
+
+# installation
+## clone
+
+```
+$ git clone https://github.com/gagassss/my-first-app-nodejs.git
+$ cd my-first-app-nodejs
+$ npm install
+```
+
+Start
+```
+$ npm start
+```
